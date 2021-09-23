@@ -1,0 +1,3 @@
+- 👋 Hi, I’m sssynk
+- 👀 I enjoy programming in many languages
+- 🌱 I’m currently learning Go
