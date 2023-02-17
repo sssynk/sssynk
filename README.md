@@ -1,3 +1,3 @@
-- 👋 Hi, I’m James Wilson
-- 👀 I enjoy programming in many languages
-- 📚 I am a high school student
+👋 Hi, I’m James
+
+[![James's Stats](https://github-readme-stats.vercel.app/api?username=sssynk)](https://github.com/sssynk/github-readme-stats)
