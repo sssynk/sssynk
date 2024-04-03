@@ -1,3 +1,3 @@
-👋 Hi, I’m James
+👋 Hi, I’m James!
 
-[![James's Stats](https://github-readme-stats.vercel.app/api?username=sssynk)](https://james.baby/)
+I am a 19 year old full stack developer from Seattle! I currently go to the University of Washington.
